@@ -9,6 +9,8 @@
 [![Spotify](https://spotify-readme.hassan-alshawakh.vercel.app/api/spotify)](https://open.spotify.com/user/somnathpaul) <be>
 
 </details>
+</div>
+
 
 
 
